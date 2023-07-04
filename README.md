@@ -1,27 +1,24 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashirof&label=Profile%20views&color=0e75b6&style=flat" alt="yashirof" /> </p>
+<div align="center"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9003FF&height=120&section=header"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashirof" alt="yashirof" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto+italic&duration=4000&pause=1000&color=AE22F7&center=true&vCenter=true&width=435&lines=Hi+%2C+welcome+to+my+github+)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/astrofisicas" target="blank"><img src="https://img.shields.io/twitter/follow/astrofisicas?logo=twitter&style=for-the-badge" alt="astrofisicas" /></a> </p>
+<div align="center">
+  <img src="https://media.tenor.com/gkyKEmCcyOYAAAAd/purple-anime.gif" alt="Hello world" align="center" width="200" height="200">
+</div>
 
-- 🔭 I’m currently working on [voidstore](https://voidsmurf.store)
-
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **dhckaua@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/astrofisicas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="astrofisicas" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yashirof1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yashirof1/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/voidstore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/voidstore" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashirof&" alt="yashirof" /></p>
+<strong><p>Me chamo Danyllo <strong></strong> tenho 19 anos. Tenho contato com progamção desde meus 15 anos e me interesso pela area de Automação, Machine learning E Ai.
+ - Sou desenvolvedor backend , utilizo python e JavaScript para meus projetos tenho experiencia com Bootstrap , arduino e Tailwind CSS.
+ - Desenvolvo Bots e scripts de diversos tipos
+ - tenho uma loja chamada [VoidStore](https://www.voidsmurf.store/) na qual comercializo meus bots e scripts.
+ - Sou editor de bots de uma comunidade de desenvolvedores conhecida como [Vacuum](https://discord.gg/vacuum) 
+<div align='center'>
+<hr style="border: 1px solid black;">
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashirof&show_icons=true&theme=midnight-purple)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashirof&bg_color=050505&color=8000ff&line=780ae6&point=1dcd3b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center"> 
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9003FF&height=120&section=footer"/>
