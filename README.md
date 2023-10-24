@@ -6,11 +6,11 @@
   <img src="https://media.tenor.com/gkyKEmCcyOYAAAAd/purple-anime.gif" alt="Hello world" align="center" width="200" height="200">
 </div>
 
-<strong><p>Me chamo Danyllo <strong></strong> tenho 19 anos. Tenho contato com progamção desde meus 15 anos e me interesso pela area de Automação, Machine learning E Ai.
+<strong><p>Me chamo Danyllo <strong></strong> tenho 20 anos. Tenho contato com progamção desde meus 15 anos e me interesso pela area de Automação, Machine learning E Ai.
  - Sou desenvolvedor backend , utilizo python e JavaScript para meus projetos tenho experiencia com Bootstrap , arduino e Tailwind CSS.
  - Desenvolvo Bots e scripts de diversos tipos
- - tenho uma loja chamada [VoidStore](https://www.voidsmurf.store/) na qual comercializo meus bots e scripts.
- - Sou editor de bots de uma comunidade de desenvolvedores conhecida como [Vacuum](https://discord.gg/vacuum) 
+ - tenho uma loja chamada [VoidStore](https://www.voidsmurfs.com/) na qual vendo meus produtos
+ - Desenvolvo bots e e scripts no meu [servidor](https://discord.gg/voidstore)
 <div align='center'>
 <hr style="border: 1px solid black;">
 
